@@ -1,0 +1,1 @@
+This repository represents a collection of the programs that I have written in the Java programming language. These programs are all of my own design and will be a collection of programs that were either written by my own violition or because of a class project/assignment. 
